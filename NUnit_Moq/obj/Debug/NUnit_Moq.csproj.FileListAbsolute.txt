@@ -1,0 +1,10 @@
+C:\VSApplications\NUnit_Moq\NUnit_Moq\bin\Debug\NUnit_Moq.dll
+C:\VSApplications\NUnit_Moq\NUnit_Moq\bin\Debug\NUnit_Moq.pdb
+C:\VSApplications\NUnit_Moq\NUnit_Moq\bin\Debug\Castle.Core.dll
+C:\VSApplications\NUnit_Moq\NUnit_Moq\bin\Debug\Moq.dll
+C:\VSApplications\NUnit_Moq\NUnit_Moq\bin\Debug\nunit.framework.dll
+C:\VSApplications\NUnit_Moq\NUnit_Moq\bin\Debug\Castle.Core.xml
+C:\VSApplications\NUnit_Moq\NUnit_Moq\bin\Debug\Moq.xml
+C:\VSApplications\NUnit_Moq\NUnit_Moq\bin\Debug\nunit.framework.xml
+C:\VSApplications\NUnit_Moq\NUnit_Moq\obj\Debug\NUnit_Moq.dll
+C:\VSApplications\NUnit_Moq\NUnit_Moq\obj\Debug\NUnit_Moq.pdb
